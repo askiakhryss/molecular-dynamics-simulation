@@ -3,4 +3,6 @@ Learn to conduct molecular dynamics simulations with GROMACS, providing essentia
 
 *This was my apply project for The Knowledge Society (TKS)*
 
+[Medium article](https://medium.com/@learnings.added/a-comprehensive-guide-to-simulating-tnf-receptor-associated-factor-2-in-an-aqueous-environment-a81cf4c895e7)
+
 [**View Live Site Here**](https://askiakhryss.github.io/molecular-dynamics-simulation/)
